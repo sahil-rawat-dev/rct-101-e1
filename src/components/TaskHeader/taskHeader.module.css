@@ -1,3 +1,7 @@
 .taskHeader {
-  /* Sample */
+  height: 200px;
+  width: 30%;
+  margin: auto;
+  color: white;
+  background-color: aquamarine;
 }
